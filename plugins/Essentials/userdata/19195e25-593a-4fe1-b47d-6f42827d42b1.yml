@@ -1,0 +1,29 @@
+lastAccountName: TheBussDriver
+timestamps:
+  login: 1593921227716
+  logout: 1593922996522
+  lastteleport: 1593922990709
+ipAddress: 71.13.241.104
+logoutlocation:
+  world: world
+  x: -434.5
+  y: 104.0
+  z: 369.5
+  yaw: -184.87238
+  pitch: 12.828253
+homes:
+  home:
+    world: world
+    x: -434.72634567084
+    y: 104.0
+    z: 369.7295312955923
+    yaw: -178.58405
+    pitch: 25.782295
+lastlocation:
+  world: world
+  x: -6060.331985893376
+  y: 63.0
+  z: 7873.285478108638
+  yaw: -156.0338
+  pitch: 31.616776
+money: '3951.383'

@@ -1,0 +1,34 @@
+lastAccountName: DannyZolp
+timestamps:
+  login: 1595972414519
+  logout: 1595972933762
+  lastteleport: 1595736954870
+ipAddress: 97.83.219.217
+logoutlocation:
+  world: world
+  x: -5307.705719623516
+  y: 93.0
+  z: 8520.986374201164
+  yaw: -132.0896
+  pitch: 13.800036
+lastlocation:
+  world: world
+  x: -5375.055102235521
+  y: 90.0
+  z: 8246.406987656164
+  yaw: -4.919861
+  pitch: 19.950079
+money: '24435.577'
+afk: false
+powertools:
+  netherite_sword:
+  - beezooka
+powertoolsenabled: false
+homes:
+  home:
+    world: world
+    x: -5349.6221204850535
+    y: 212.0
+    z: 8557.435118575377
+    yaw: -35.84893
+    pitch: 71.25039

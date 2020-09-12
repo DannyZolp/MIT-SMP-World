@@ -1,0 +1,30 @@
+lastAccountName: MerQueen23
+timestamps:
+  login: 1593205675434
+  logout: 1593205780710
+  lastheal: 1593203984414
+  lastteleport: 1593204109869
+ipAddress: 97.83.219.217
+lastlocation:
+  world: world
+  x: -15.750829770067778
+  y: 64.0
+  z: 199.8587806630024
+  yaw: -20.099823
+  pitch: 27.899975
+money: '0'
+logoutlocation:
+  world: world
+  x: -5313.244892049063
+  y: 87.0
+  z: 8309.391824370074
+  yaw: -73.00604
+  pitch: 14.549814
+homes:
+  home:
+    world: world
+    x: -5336.631557121928
+    y: 87.0
+    z: 8307.294872989902
+    yaw: -131.39095
+    pitch: 15.448563

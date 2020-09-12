@@ -1,0 +1,29 @@
+lastAccountName: Justerius2
+timestamps:
+  login: 1595113241462
+  logout: 1595114732405
+  lastteleport: 1593970698630
+ipAddress: 47.34.42.197
+lastlocation:
+  world: world_the_end
+  x: 253.14838564578528
+  y: 4.0
+  z: 4.647902498207443
+  yaw: 98.23135
+  pitch: 27.338186
+homes:
+  home:
+    world: world
+    x: -5197.348292253428
+    y: 87.0
+    z: 8456.482089407711
+    yaw: 210.61353
+    pitch: 72.9342
+logoutlocation:
+  world: world
+  x: -5343.065923251877
+  y: 90.0
+  z: 8180.067020131457
+  yaw: 41.902508
+  pitch: 16.944178
+money: '6104.30'

@@ -1,0 +1,67 @@
+[03:00:08] [Craft Scheduler Thread - 14266/INFO]: [Vault] Checking for Updates ... 
+[03:00:09] [Craft Scheduler Thread - 14266/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.7.2
+[03:00:09] [Craft Scheduler Thread - 14266/WARN]: [Vault] Update at: https://dev.bukkit.org/projects/vault
+[09:00:08] [Craft Scheduler Thread - 16050/INFO]: [Vault] Checking for Updates ... 
+[09:00:09] [Craft Scheduler Thread - 16050/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.7.2
+[09:00:09] [Craft Scheduler Thread - 16050/WARN]: [Vault] Update at: https://dev.bukkit.org/projects/vault
+[15:00:08] [Craft Scheduler Thread - 17837/INFO]: [Vault] Checking for Updates ... 
+[15:00:09] [Craft Scheduler Thread - 17837/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.7.2
+[15:00:09] [Craft Scheduler Thread - 17837/WARN]: [Vault] Update at: https://dev.bukkit.org/projects/vault
+[17:01:21] [User Authenticator #5/INFO]: UUID of player MeltedCornet52 is b9b9db67-f457-4b50-9f00-38a26c974780
+[17:01:21] [Server thread/INFO]: MeltedCornet52 joined the game
+[17:01:21] [Server thread/INFO]: MeltedCornet52[/104.48.255.85:52196] logged in with entity id 29546 at ([world]-33.5, 64.0, 189.5)
+[17:01:21] [pool-16-thread-1/INFO]: [Essentials] Creating empty config: /home/danny/SMP/plugins/Essentials/userdata/b9b9db67-f457-4b50-9f00-38a26c974780.yml
+[17:01:49] [Server thread/INFO]: MeltedCornet52 issued server command: /help
+[17:05:36] [Server thread/INFO]: MeltedCornet52 lost connection: Disconnected
+[17:05:36] [Server thread/INFO]: MeltedCornet52 left the game
+[21:00:08] [Craft Scheduler Thread - 19621/INFO]: [Vault] Checking for Updates ... 
+[21:00:09] [Craft Scheduler Thread - 19621/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.7.2
+[21:00:09] [Craft Scheduler Thread - 19621/WARN]: [Vault] Update at: https://dev.bukkit.org/projects/vault
+[21:40:14] [User Authenticator #6/INFO]: UUID of player DannyZolp is 4bebc652-e3fa-49f6-bf0e-a788283c3b8e
+[21:40:14] [Server thread/INFO]: DannyZolp joined the game
+[21:40:14] [Server thread/INFO]: DannyZolp[/97.83.219.217:62672] logged in with entity id 30475 at ([world_nether]-661.4367073291754, 129.0, 1032.107890068366)
+[21:48:53] [Server thread/INFO]: DannyZolp lost connection: Disconnected
+[21:48:53] [Server thread/INFO]: DannyZolp left the game
+[21:49:15] [Server thread/INFO]: Stopping the server
+[21:49:15] [Server thread/INFO]: Stopping server (Ignore any thread death message you see! - DO NOT REPORT THREAD DEATH TO PAPER)
+[21:49:15] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.130
+[21:49:15] [Server thread/INFO]: [Graves] Disabling Graves v3.5
+[21:49:15] [Server thread/INFO]: [Plan] Disabling Plan v5.1 build 615
+[21:49:15] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: plan
+[21:49:15] [Server thread/INFO]: [Plan] Processing critical unprocessed tasks. (0)
+[21:49:15] [Server thread/INFO]: [Plan] Processing complete.
+[21:49:15] [Server thread/INFO]: [Plan] Webserver has been disabled.
+[21:49:15] [Server thread/INFO]: [Plan] Player Analytics Disabled.
+[21:49:15] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.130
+[21:49:15] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[21:49:15] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.10.1 (build 174)
+[21:49:15] [Server thread/INFO]: [AdvancedHelp] Disabling AdvancedHelp v1.12
+[21:49:15] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[21:49:15] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[21:49:16] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[21:49:16] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[21:49:16] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[21:49:16] [Server thread/INFO]: [GSit] Disabling GSit v[2.16.0.0]
+[21:49:16] [Server thread/INFO]: [GSit] The Plugin was successfully disabled.
+[21:49:16] [Server thread/INFO]: [CommandCooldown] Disabling CommandCooldown v1.8
+[21:49:16] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.6
+[21:49:16] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[21:49:16] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:49:16] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.1.63
+[21:49:16] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:49:16] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:49:16] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:49:16] [Server thread/INFO]: Saving players
+[21:49:16] [Server thread/INFO]: Saving worlds
+[21:49:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:49:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:49:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:49:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:49:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:49:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:49:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:49:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:49:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:49:17] [Server thread/INFO]: Flushing Chunk IO
+[21:49:17] [Server thread/INFO]: Closing Thread Pool
+[21:49:17] [Server thread/INFO]: Closing Server

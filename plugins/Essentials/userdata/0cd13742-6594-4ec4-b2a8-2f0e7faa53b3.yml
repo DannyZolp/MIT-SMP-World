@@ -1,0 +1,28 @@
+lastAccountName: TheAzuredOne
+timestamps:
+  login: 1593657220588
+  lastteleport: 1593364766296
+  logout: 1593657799262
+ipAddress: 68.114.240.176
+lastlocation:
+  world: world
+  x: -28.0
+  y: 64.0
+  z: 190.0
+  yaw: -150.6
+  pitch: 14.099999
+logoutlocation:
+  world: world
+  x: -5291.370369579361
+  y: 63.0
+  z: 8375.93051487626
+  yaw: 222.87894
+  pitch: 31.650026
+homes:
+  home:
+    world: world
+    x: -5267.772106146451
+    y: 68.0625
+    z: 8362.969829595335
+    yaw: -175.65985
+    pitch: 30.899944

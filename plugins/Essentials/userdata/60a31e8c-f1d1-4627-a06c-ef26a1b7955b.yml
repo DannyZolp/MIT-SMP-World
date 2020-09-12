@@ -1,0 +1,30 @@
+lastAccountName: Wet_Spagetti
+timestamps:
+  login: 1593920822936
+  lastteleport: 1593923255361
+  logout: 1593923258108
+  lastheal: 1593303264176
+ipAddress: 47.34.2.210
+homes:
+  home:
+    world: world
+    x: -5371.823396068998
+    y: 92.0
+    z: 8185.191893085664
+    yaw: -1.5906372
+    pitch: 53.642757
+lastlocation:
+  world: world
+  x: -5371.492941024264
+  y: 92.0
+  z: 8186.054743292573
+  yaw: -1.7406372
+  pitch: 58.59276
+logoutlocation:
+  world: world
+  x: -5371.5
+  y: 92.0
+  z: 8185.5
+  yaw: -1.5906372
+  pitch: 53.642757
+money: '42895.87'

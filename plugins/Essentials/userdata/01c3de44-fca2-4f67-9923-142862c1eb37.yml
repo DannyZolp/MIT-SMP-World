@@ -1,0 +1,29 @@
+lastAccountName: SmolAcorn
+timestamps:
+  login: 1593826772960
+  lastteleport: 1593828037954
+  logout: 1593828889805
+ipAddress: 97.83.216.43
+lastlocation:
+  world: world
+  x: -5204.534181058525
+  y: 87.0
+  z: 8381.224673586923
+  yaw: 332.416
+  pitch: 18.299955
+homes:
+  home:
+    world: world
+    x: -5131.349744686074
+    y: 70.0
+    z: 2264.0378522435954
+    yaw: -66.06812
+    pitch: 23.298489
+logoutlocation:
+  world: world
+  x: -5210.330606650822
+  y: 87.5
+  z: 8374.975026686185
+  yaw: 119.33789
+  pitch: 42.0
+money: '0'

@@ -1,0 +1,29 @@
+lastAccountName: Mr_Sniffer
+timestamps:
+  login: 1593752186731
+  lastteleport: 1593752399416
+  logout: 1593752819172
+ipAddress: 174.82.222.230
+money: '9731.0'
+homes:
+  home:
+    world: world
+    x: -5341.10233333859
+    y: 87.0
+    z: 8330.090097202288
+    yaw: -89.39963
+    pitch: 31.800152
+lastlocation:
+  world: world
+  x: -5511.51102307384
+  y: 64.0
+  z: 8351.003337723478
+  yaw: -139.87688
+  pitch: 9.012151
+logoutlocation:
+  world: world
+  x: -5337.300000011921
+  y: 88.0
+  z: 8331.104948463286
+  yaw: 102.274284
+  pitch: 27.1146

@@ -1,0 +1,28 @@
+lastAccountName: TheStormtrooper2
+timestamps:
+  login: 1593390804036
+  lastteleport: 1593373536671
+  logout: 1593390940958
+ipAddress: 47.34.42.197
+lastlocation:
+  world: world
+  x: -5126.390827405473
+  y: 73.0
+  z: 8244.854078661607
+  yaw: -128.661
+  pitch: 9.899964
+logoutlocation:
+  world: world
+  x: -4895.647821840905
+  y: 72.0
+  z: 8313.418824763556
+  yaw: -267.06274
+  pitch: 15.300348
+homes:
+  home:
+    world: world
+    x: -4895.980168104188
+    y: 72.0
+    z: 8313.128152180752
+    yaw: 86.181885
+    pitch: 15.449504
